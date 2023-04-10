@@ -95,7 +95,7 @@ function Product() {
           </div>
 
         {/* product show */}
-         <div className='grid lg:grid-cols-4 sm:grid-cols-1 gap-1 ml-24 mt-12 category-all'>
+         <div className='grid lg:grid-cols-4 sm:grid-cols-1 gap-5 ml-24 mt-12 category-all'>
          {
                     items.map(service=> <Category service={service} filterSide={filterSide}></Category>)
                 }
