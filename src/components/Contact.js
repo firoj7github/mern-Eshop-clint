@@ -4,7 +4,7 @@ import './From.css'
 function Contact() {
     return (
       <div class="flex z-10 relative items-center justify-center from-manage bg-red-100">
-      <div class="bg-white rounded-2xl border shadow-x1 p-10 max-w-lg">
+      <div class="bg-cyan-100 rounded-2xl border shadow-x1 p-10 max-w-lg">
         <div class="flex flex-col items-center space-y-4">
           <h1 class="font-bold text-2xl text-gray-700 w-4/6 text-center">
             NewsLetters

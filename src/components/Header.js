@@ -9,7 +9,7 @@ function Header() {
             navLinks.classList.toggle('top-[9%]')
         }
     return (
-        <div className='bg-gray-500 h-14 border-y-2 z-20 relative'>
+        <div className='bg-gray-200 h-14 border-y-2 z-20 relative'>
             <nav className='fixed top-0 left-0 bg-white h-14  w-full '>
                 <div className='container m-auto flex justify-between iteams-center text-gray-700 '>
                 <h1 className='pl-8 py-4 text-xl font-bold'>MobiShop.</h1>
